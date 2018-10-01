@@ -1,0 +1,3 @@
+git config --global user.email "rohith_gunda@persistent.com"
+
+ git config --global user.email
